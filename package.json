@@ -1,0 +1,19 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "Shoppping Cart to buy products online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balapitchuka/shopping_cart.git"
+  },
+  "author": "Balasubrahmanyam Pitchuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balapitchuka/shopping_cart/issues"
+  },
+  "homepage": "https://github.com/balapitchuka/shopping_cart#readme"
+}
